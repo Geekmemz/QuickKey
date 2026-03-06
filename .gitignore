@@ -1,0 +1,19 @@
+node_modules/
+dist/
+.vscode/
+.idea/
+*.log
+*.tmp
+*.tsbuildinfo
+
+# Rust/Tauri build outputs
+src-tauri/target/
+
+# Local planning/runtime files
+task_plan.md
+findings.md
+progress.md
+
+# OS junk
+.DS_Store
+Thumbs.db
